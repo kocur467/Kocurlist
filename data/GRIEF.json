@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "GRIEF",
+    "author": "Icedcave",
+    "creators": ["Triplash"],
+    "verifier": "Doggie",
+    "verification": "https://youtu.be/gB8slBPlOjc?si=VcRGwSDiW7jPZGji",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "NO",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
